@@ -3,59 +3,59 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://thomastanck.github.io/log/post/welcome/</loc>
+    <loc>https://thomastanck.github.io/post/welcome/</loc>
     <lastmod>2017-06-12T20:44:09+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thomastanck.github.io/log/about/</loc>
+    <loc>https://thomastanck.github.io/about/</loc>
     <lastmod>2017-06-10T05:09:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thomastanck.github.io/log/tags/about/</loc>
-    <lastmod>2017-06-10T05:09:10+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://thomastanck.github.io/log/categories/about/</loc>
+    <loc>https://thomastanck.github.io/tags/about/</loc>
     <lastmod>2017-06-10T05:09:10+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://thomastanck.github.io/log/tags/article/</loc>
-    <lastmod>2017-06-12T20:44:09+00:00</lastmod>
+    <loc>https://thomastanck.github.io/categories/about/</loc>
+    <lastmod>2017-06-10T05:09:10+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://thomastanck.github.io/log/categories/articles/</loc>
+    <loc>https://thomastanck.github.io/tags/article/</loc>
     <lastmod>2017-06-12T20:44:09+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://thomastanck.github.io/log/categories/</loc>
-    <lastmod>2017-06-10T05:09:10+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://thomastanck.github.io/log/post/</loc>
+    <loc>https://thomastanck.github.io/categories/articles/</loc>
     <lastmod>2017-06-12T20:44:09+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://thomastanck.github.io/log/tags/</loc>
+    <loc>https://thomastanck.github.io/categories/</loc>
     <lastmod>2017-06-10T05:09:10+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://thomastanck.github.io/log/</loc>
+    <loc>https://thomastanck.github.io/post/</loc>
+    <lastmod>2017-06-12T20:44:09+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://thomastanck.github.io/tags/</loc>
+    <lastmod>2017-06-10T05:09:10+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://thomastanck.github.io/</loc>
     <lastmod>2017-06-12T20:44:09+00:00</lastmod>
     <priority>0</priority>
   </url>
