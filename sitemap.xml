@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://thomastanck.github.io/post/welcome/</loc>
+    <loc>https://thomastanck.github.io/article/welcome/</loc>
     <lastmod>2017-06-12T20:44:09+00:00</lastmod>
   </url>
   
@@ -31,6 +31,12 @@
   </url>
   
   <url>
+    <loc>https://thomastanck.github.io/article/</loc>
+    <lastmod>2017-06-12T20:44:09+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://thomastanck.github.io/categories/articles/</loc>
     <lastmod>2017-06-12T20:44:09+00:00</lastmod>
     <priority>0</priority>
@@ -39,12 +45,6 @@
   <url>
     <loc>https://thomastanck.github.io/categories/</loc>
     <lastmod>2017-06-10T05:09:10+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://thomastanck.github.io/post/</loc>
-    <lastmod>2017-06-12T20:44:09+00:00</lastmod>
     <priority>0</priority>
   </url>
   
