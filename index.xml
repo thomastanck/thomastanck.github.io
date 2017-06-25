@@ -18,8 +18,8 @@
       <pubDate>Sun, 25 Jun 2017 10:04:55 +0000</pubDate>
       
       <guid>https://thomastanck.github.io/log/2017_06_25_3/</guid>
-      <description>&lt;p&gt;Splitting up .bashrc into many files in rc.d
-&lt;/p&gt;</description>
+      <description>This was quite fun to do! My rc files are now significantly more palatable.
++for f in $HOME/dotfiles/sh/rc.d/*; do +	source &amp;quot;$f&amp;quot; +done  </description>
     </item>
     
     <item>
@@ -28,7 +28,7 @@
       <pubDate>Sun, 25 Jun 2017 09:53:09 +0000</pubDate>
       
       <guid>https://thomastanck.github.io/log/2017_06_25_2/</guid>
-      <description>Add log feature to log website. How meta.</description>
+      <description></description>
     </item>
     
     <item>
@@ -37,7 +37,7 @@
       <pubDate>Sun, 25 Jun 2017 09:25:39 +0000</pubDate>
       
       <guid>https://thomastanck.github.io/log/2017_06_25_1/</guid>
-      <description>Decent website if you want to waste your time.</description>
+      <description></description>
     </item>
     
     <item>
@@ -46,7 +46,7 @@
       <pubDate>Sun, 25 Jun 2017 06:30:59 +0000</pubDate>
       
       <guid>https://thomastanck.github.io/log/2017_06_25_0/</guid>
-      <description>Crappy site. Doesn&amp;rsquo;t even have content.</description>
+      <description></description>
     </item>
     
     <item>
