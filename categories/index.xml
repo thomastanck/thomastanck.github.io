@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on log</title>
+    <title>Categories on TT</title>
     <link>https://thomastanck.github.io/categories/</link>
-    <description>Recent content in Categories on log</description>
+    <description>Recent content in Categories on TT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright (c) 2017, all rights reserved.</copyright>
@@ -27,6 +27,15 @@
       <pubDate>Mon, 12 Jun 2017 20:44:09 +0000</pubDate>
       
       <guid>https://thomastanck.github.io/categories/articles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Log</title>
+      <link>https://thomastanck.github.io/categories/log/</link>
+      <pubDate>Sun, 25 Jun 2017 09:25:39 +0000</pubDate>
+      
+      <guid>https://thomastanck.github.io/categories/log/</guid>
       <description></description>
     </item>
     

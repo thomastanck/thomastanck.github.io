@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Log on TT</title>
+    <link>https://thomastanck.github.io/categories/log/</link>
+    <description>Recent content in Log on TT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright (c) 2017, all rights reserved.</copyright>
+    <lastBuildDate>Sun, 25 Jun 2017 09:25:39 +0000</lastBuildDate>
+    
+	<atom:link href="https://thomastanck.github.io/categories/log/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Youtube</title>
+      <link>https://thomastanck.github.io/log/2017_06_25_1/</link>
+      <pubDate>Sun, 25 Jun 2017 09:25:39 +0000</pubDate>
+      
+      <guid>https://thomastanck.github.io/log/2017_06_25_1/</guid>
+      <description>Decent website if you want to waste your time.</description>
+    </item>
+    
+    <item>
+      <title>thomastanck.github.io</title>
+      <link>https://thomastanck.github.io/log/2017_06_25_0/</link>
+      <pubDate>Sun, 25 Jun 2017 06:30:59 +0000</pubDate>
+      
+      <guid>https://thomastanck.github.io/log/2017_06_25_0/</guid>
+      <description>Crappy site. Doesn&amp;rsquo;t even have content.</description>
+    </item>
+    
+  </channel>
+</rss>
