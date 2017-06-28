@@ -8,9 +8,7 @@
     <language>en-US</language>
     <copyright>Copyright (c) 2017, all rights reserved.</copyright>
     <lastBuildDate>Tue, 27 Jun 2017 15:24:37 +0000</lastBuildDate>
-    
-	<atom:link href="https://thomastanck.github.io/tags/log/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://thomastanck.github.io/tags/log/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Termite working CJK fonts</title>
@@ -18,7 +16,7 @@
       <pubDate>Tue, 27 Jun 2017 15:24:37 +0000</pubDate>
       
       <guid>https://thomastanck.github.io/log/2017_06_27_2/</guid>
-      <description></description>
+      <description>With the fontconfig working, I&#39;m switching from xterm to Termite.</description>
     </item>
     
     <item>
@@ -27,7 +25,7 @@
       <pubDate>Tue, 27 Jun 2017 15:18:39 +0000</pubDate>
       
       <guid>https://thomastanck.github.io/log/2017_06_27_1/</guid>
-      <description></description>
+      <description>A pretty funny article about fontconfig. Helped me set up Japanese fallback fonts.</description>
     </item>
     
     <item>
@@ -36,8 +34,7 @@
       <pubDate>Tue, 27 Jun 2017 11:08:58 +0000</pubDate>
       
       <guid>https://thomastanck.github.io/log/2017_06_27_0/</guid>
-      <description>It was really frustrating when I found out that the reason why 3 finger drag (and other gestures, but 3 finger drag was the most noticeable) wasn&amp;rsquo;t working properly was because of INTEGER TRUNCATION. Such an elementary error&amp;hellip; it was causing input to be ignored and thus my selections and drags would always start late and never be precise.
-Turns out all the previous maintainers never bothered to compile with warning flags either, but even that would not have prevented the error, because the integer truncation was done with an EXPLCIT (int) cast!</description>
+      <description>Program/debug for 12 hours straight to fix my touchpad driver...</description>
     </item>
     
     <item>
@@ -46,7 +43,7 @@ Turns out all the previous maintainers never bothered to compile with warning fl
       <pubDate>Mon, 26 Jun 2017 07:13:13 +0000</pubDate>
       
       <guid>https://thomastanck.github.io/log/2017_06_26_5/</guid>
-      <description></description>
+      <description>Made some more improvements to the logs.</description>
     </item>
     
     <item>
@@ -55,7 +52,7 @@ Turns out all the previous maintainers never bothered to compile with warning fl
       <pubDate>Mon, 26 Jun 2017 02:58:35 +0000</pubDate>
       
       <guid>https://thomastanck.github.io/log/2017_06_26_4/</guid>
-      <description></description>
+      <description>URxvt displays CJK fonts really small. Compare with XTerm.</description>
     </item>
     
     <item>
@@ -64,8 +61,7 @@ Turns out all the previous maintainers never bothered to compile with warning fl
       <pubDate>Sun, 25 Jun 2017 18:52:57 +0000</pubDate>
       
       <guid>https://thomastanck.github.io/log/2017_06_26_3/</guid>
-      <description>Interesting (read: annoying) thing I found is that if you use Ctrl+L to select the address bar in Firefox, the URL doesn&amp;rsquo;t actually go in the selection (primary) buffer. You have to physically select it for it to work.
-Luckily, the workaround is to simply Ctrl+C the address bar after using Ctrl+L to select it. autocutsel will then sync the buffers and now you have the URL in both buffers! yay.</description>
+      <description>Installed this to try and sync Primary/Clipboard buffers.</description>
     </item>
     
     <item>
@@ -74,7 +70,7 @@ Luckily, the workaround is to simply Ctrl+C the address bar after using Ctrl+L t
       <pubDate>Sun, 25 Jun 2017 18:47:22 +0000</pubDate>
       
       <guid>https://thomastanck.github.io/log/2017_06_26_2/</guid>
-      <description></description>
+      <description>Tried to use fcitx but Dvorak in fcitx is a synonym for &#39;QWERTY&#39;</description>
     </item>
     
     <item>
@@ -83,7 +79,7 @@ Luckily, the workaround is to simply Ctrl+C the address bar after using Ctrl+L t
       <pubDate>Sun, 25 Jun 2017 18:05:10 +0000</pubDate>
       
       <guid>https://thomastanck.github.io/log/2017_06_26_1/</guid>
-      <description></description>
+      <description>Essential reading to learn how to use WeeChat.</description>
     </item>
     
     <item>
@@ -92,7 +88,7 @@ Luckily, the workaround is to simply Ctrl+C the address bar after using Ctrl+L t
       <pubDate>Sun, 25 Jun 2017 18:01:18 +0000</pubDate>
       
       <guid>https://thomastanck.github.io/log/2017_06_26_0/</guid>
-      <description></description>
+      <description>Installed Weechat.</description>
     </item>
     
     <item>
@@ -101,8 +97,7 @@ Luckily, the workaround is to simply Ctrl+C the address bar after using Ctrl+L t
       <pubDate>Sun, 25 Jun 2017 10:04:55 +0000</pubDate>
       
       <guid>https://thomastanck.github.io/log/2017_06_25_3/</guid>
-      <description>This was quite fun to do! My rc files are now significantly more palatable.
-+for f in $HOME/dotfiles/sh/rc.d/*; do +	source &amp;quot;$f&amp;quot; +done  </description>
+      <description>Splitting up .bashrc into many files in rc.d.</description>
     </item>
     
     <item>
@@ -111,7 +106,7 @@ Luckily, the workaround is to simply Ctrl+C the address bar after using Ctrl+L t
       <pubDate>Sun, 25 Jun 2017 09:53:09 +0000</pubDate>
       
       <guid>https://thomastanck.github.io/log/2017_06_25_2/</guid>
-      <description></description>
+      <description>Add log feature to log website. How meta.</description>
     </item>
     
     <item>
@@ -120,7 +115,7 @@ Luckily, the workaround is to simply Ctrl+C the address bar after using Ctrl+L t
       <pubDate>Sun, 25 Jun 2017 09:25:39 +0000</pubDate>
       
       <guid>https://thomastanck.github.io/log/2017_06_25_1/</guid>
-      <description></description>
+      <description>Decent website if you want to waste your time.</description>
     </item>
     
     <item>
@@ -129,7 +124,7 @@ Luckily, the workaround is to simply Ctrl+C the address bar after using Ctrl+L t
       <pubDate>Sun, 25 Jun 2017 06:30:59 +0000</pubDate>
       
       <guid>https://thomastanck.github.io/log/2017_06_25_0/</guid>
-      <description></description>
+      <description>Crappy site. Doesn&#39;t even have content.</description>
     </item>
     
   </channel>
