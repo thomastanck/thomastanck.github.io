@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+<meta charset="utf-8" />
+<meta name="author" content="Thomas Tan" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+<meta name="generator" content="Hugo 0.22-DEV" />
+
+<link rel="canonical" href="https://thomastanck.github.io/log/2017_06_28_1/">
+<base href="https://thomastanck.github.io/" />
+<meta property="og:title" content="Add bash completion to cddots - thomastanck/dotfiles" />
+<meta property="og:description" content="It was very interesting poking into the find man page. That page is extremely long!
+The cddots commands originaly made by my friend mort is really a family of aliases .. ..., and so on that cd upwards. If given an argument it then cd downwards into that directory.
+I noticed that it couldn&rsquo;t tab-complete since bash doesn&rsquo;t know that these commands are really cd from a different (higher) working directory." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://thomastanck.github.io/log/2017_06_28_1/" />
+
+
+
+<meta property="article:published_time" content="2017-06-28T09:44:05&#43;00:00"/>
+<meta property="article:modified_time" content="2017-06-28T09:44:05&#43;00:00"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <meta name="twitter:card" content="summary"/>
+
+
+
+<meta name="twitter:text:title" content="Add bash completion to cddots - thomastanck/dotfiles"/>
+<meta name="twitter:title" content="Add bash completion to cddots - thomastanck/dotfiles"/>
+<meta name="twitter:description" content="It was very interesting poking into the find man page. That page is extremely long!
+The cddots commands originaly made by my friend mort is really a family of aliases .. ..., and so on that cd upwards. If given an argument it then cd downwards into that directory.
+I noticed that it couldn&rsquo;t tab-complete since bash doesn&rsquo;t know that these commands are really cd from a different (higher) working directory."/>
+
+
+
+
+<meta itemprop="name" content="Add bash completion to cddots - thomastanck/dotfiles">
+<meta itemprop="description" content="It was very interesting poking into the find man page. That page is extremely long!
+The cddots commands originaly made by my friend mort is really a family of aliases .. ..., and so on that cd upwards. If given an argument it then cd downwards into that directory.
+I noticed that it couldn&rsquo;t tab-complete since bash doesn&rsquo;t know that these commands are really cd from a different (higher) working directory.">
+
+
+<meta itemprop="dateModified" content="2017-06-28T09:44:05&#43;00:00" />
+<meta itemprop="wordCount" content="126">
+
+
+
+<meta itemprop="keywords" content="about,articles,log,about,article,log," />
+
+
+<link rel="stylesheet" href="css/layout.css" />
+<link rel="stylesheet" href="css/color-dark.css" />
+
+
+
+<title>
+
+
+     Add bash completion to cddots - thomastanck/dotfiles 
+
+</title>
+
+<script src="js/highlight.min.js"></script>
+<link rel="stylesheet" href="css/tomorrow-night.min.css" />
+<script>hljs.initHighlightingOnLoad();</script>
+
+</head>
+
+
+<body>
+<div class="main">
+<header>
+
+<div class="header-bar">
+
+  <nav>
+    <div class="siteTitle">
+      <a href="https://thomastanck.github.io/">TT</a>
+    </div> 
+
+    
+    
+    <a class="nav-item" href="/log/"><div class="nav-item-title">Log</div></a>
+    
+    <a class="nav-item" href="/article/"><div class="nav-item-title">Articles</div></a>
+    
+    <a class="nav-item" href="/tags/"><div class="nav-item-title">Tags</div></a>
+    
+    <a class="nav-item" href="/about/"><div class="nav-item-title">About</div></a>
+    
+
+  </nav>
+</div>
+
+  
+<div class="social-links-header">
+
+  
+
+  
+
+  
+
+  
+
+  
+
+</div>
+
+
+</header>
+
+
+<article class="article">
+    <h1 class="title"> Add bash completion to cddots - thomastanck/dotfiles </h1>
+	<div class="content">
+		
+			<p class="loglink"> <a href="https://github.com/thomastanck/dotfiles/commit/830600c174648859dd43efa6656c3c8c65f34a1a">https://github.com/thomastanck/dotfiles/commit/830600c174648859dd43efa6656c3c8c65f34a1a</a> </p>
+		<p> Was my first time ever writing a bash completion script. Works pretty well! </p>
+		<p>It was very interesting poking into the <code>find</code> man page.
+That page is extremely long!</p>
+
+<p>The cddots commands originaly made by <a href="https://github.com/mortie/nixConf/commit/7c368e6392e31b638d8f6282a159e263303ecadc">my friend mort</a>
+is really a family of aliases
+<code>..</code> <code>...</code>, and so on
+that <code>cd</code> upwards.
+If given an argument
+it then <code>cd</code> downwards into that directory.</p>
+
+<p>I noticed that it couldn&rsquo;t tab-complete
+since bash doesn&rsquo;t know
+that these commands are really <code>cd</code>
+from a different (higher) working directory.
+Since I wanted to learn to use <code>..</code> more often,
+seeing this behaviour made me not want to use it anymore,
+up until I thought
+maybe I should just make a bash completion script for it.</p>
+
+<p>This experience ended up taking mor time than it would ever save,
+but hey, I learnt something new today!</p>
+
+	</div>
+    <footer class="article-footer">
+
+  <div class="article-footer-data">
+    
+<div class="tags">
+    
+      <div class="tag">
+        <a href="/tags/log">#log</a>
+      </div>
+    
+</div>
+
+    <div class="date"> Jun 28, 2017 </div>
+  </div>
+
+</footer>
+
+
+
+</article>
+
+  <footer>
+
+  <div class="social-links-footer">
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  <div class="social-link">
+  <a href="https://thomastanck.github.io/index.xml" target="_blank">RSS</a>
+  </div>
+
+  
+  <div class="social-link">
+	  <a href="log/rss.xml" target="_blank">RSS just for Logs</a>
+  </div>
+  
+
+</div>
+
+
+  <div class="copyright"> Copyright (c) 2017, all rights reserved. </div>
+
+  <div class="poweredby">
+    Powered by <a href="https://gohugo.io/">Hugo</a>.
+  </div>
+
+  </footer>
+
+</body>
+</html>
+

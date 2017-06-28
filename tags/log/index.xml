@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Log on TT</title>
+    <link>https://thomastanck.github.io/tags/log/</link>
+    <description>Recent content in Log on TT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright (c) 2017, all rights reserved.</copyright>
+    <lastBuildDate>Wed, 28 Jun 2017 09:44:05 +0000</lastBuildDate>
+    <atom:link href="https://thomastanck.github.io/tags/log/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Add bash completion to cddots - thomastanck/dotfiles</title>
+      <link>https://thomastanck.github.io/log/2017_06_28_1/</link>
+      <pubDate>Wed, 28 Jun 2017 09:44:05 +0000</pubDate>
+      
+      <guid>https://thomastanck.github.io/log/2017_06_28_1/</guid>
+      <description>Was my first time ever writing a bash completion script. Works pretty well!</description>
+    </item>
+    
+    <item>
+      <title>thomastanck.github.io</title>
+      <link>https://thomastanck.github.io/log/2017_06_28_0/</link>
+      <pubDate>Wed, 28 Jun 2017 07:32:25 +0000</pubDate>
+      
+      <guid>https://thomastanck.github.io/log/2017_06_28_0/</guid>
+      <description>Made RSS feed sensible and added custom log archive listing</description>
+    </item>
+    
+    <item>
+      <title>Termite working CJK fonts</title>
+      <link>https://thomastanck.github.io/log/2017_06_27_2/</link>
+      <pubDate>Tue, 27 Jun 2017 15:24:37 +0000</pubDate>
+      
+      <guid>https://thomastanck.github.io/log/2017_06_27_2/</guid>
+      <description>With the fontconfig working, I&#39;m switching from xterm to Termite.</description>
+    </item>
+    
+    <item>
+      <title>I stared into the fontconfig, and the fontconfig stared back at me</title>
+      <link>https://thomastanck.github.io/log/2017_06_27_1/</link>
+      <pubDate>Tue, 27 Jun 2017 15:18:39 +0000</pubDate>
+      
+      <guid>https://thomastanck.github.io/log/2017_06_27_1/</guid>
+      <description>A pretty funny article about fontconfig. Helped me set up Japanese fallback fonts.</description>
+    </item>
+    
+    <item>
+      <title>thomastanck/xf86-input-mtrack</title>
+      <link>https://thomastanck.github.io/log/2017_06_27_0/</link>
+      <pubDate>Tue, 27 Jun 2017 11:08:58 +0000</pubDate>
+      
+      <guid>https://thomastanck.github.io/log/2017_06_27_0/</guid>
+      <description>Program/debug for 12 hours straight to fix my touchpad driver...</description>
+    </item>
+    
+    <item>
+      <title>thomastanck.github.io</title>
+      <link>https://thomastanck.github.io/log/2017_06_26_5/</link>
+      <pubDate>Mon, 26 Jun 2017 07:13:13 +0000</pubDate>
+      
+      <guid>https://thomastanck.github.io/log/2017_06_26_5/</guid>
+      <description>Made some more improvements to the logs.</description>
+    </item>
+    
+    <item>
+      <title>URxvt CJK font size problem</title>
+      <link>https://thomastanck.github.io/log/2017_06_26_4/</link>
+      <pubDate>Mon, 26 Jun 2017 02:58:35 +0000</pubDate>
+      
+      <guid>https://thomastanck.github.io/log/2017_06_26_4/</guid>
+      <description>URxvt displays CJK fonts really small. Compare with XTerm.</description>
+    </item>
+    
+    <item>
+      <title>autocutsel</title>
+      <link>https://thomastanck.github.io/log/2017_06_26_3/</link>
+      <pubDate>Sun, 25 Jun 2017 18:52:57 +0000</pubDate>
+      
+      <guid>https://thomastanck.github.io/log/2017_06_26_3/</guid>
+      <description>Installed this to try and sync Primary/Clipboard buffers.</description>
+    </item>
+    
+    <item>
+      <title>Fcitx - ArchWiki</title>
+      <link>https://thomastanck.github.io/log/2017_06_26_2/</link>
+      <pubDate>Sun, 25 Jun 2017 18:47:22 +0000</pubDate>
+      
+      <guid>https://thomastanck.github.io/log/2017_06_26_2/</guid>
+      <description>Tried to use fcitx but Dvorak in fcitx is a synonym for &#39;QWERTY&#39;</description>
+    </item>
+    
+    <item>
+      <title>WeeChat quick start guide</title>
+      <link>https://thomastanck.github.io/log/2017_06_26_1/</link>
+      <pubDate>Sun, 25 Jun 2017 18:05:10 +0000</pubDate>
+      
+      <guid>https://thomastanck.github.io/log/2017_06_26_1/</guid>
+      <description>Essential reading to learn how to use WeeChat.</description>
+    </item>
+    
+    <item>
+      <title>Weechat - ArchWiki</title>
+      <link>https://thomastanck.github.io/log/2017_06_26_0/</link>
+      <pubDate>Sun, 25 Jun 2017 18:01:18 +0000</pubDate>
+      
+      <guid>https://thomastanck.github.io/log/2017_06_26_0/</guid>
+      <description>Installed Weechat.</description>
+    </item>
+    
+    <item>
+      <title>thomastanck/dotfiles</title>
+      <link>https://thomastanck.github.io/log/2017_06_25_3/</link>
+      <pubDate>Sun, 25 Jun 2017 10:04:55 +0000</pubDate>
+      
+      <guid>https://thomastanck.github.io/log/2017_06_25_3/</guid>
+      <description>Splitting up .bashrc into many files in rc.d.</description>
+    </item>
+    
+    <item>
+      <title>thomastanck.github.io</title>
+      <link>https://thomastanck.github.io/log/2017_06_25_2/</link>
+      <pubDate>Sun, 25 Jun 2017 09:53:09 +0000</pubDate>
+      
+      <guid>https://thomastanck.github.io/log/2017_06_25_2/</guid>
+      <description>Add log feature to log website. How meta.</description>
+    </item>
+    
+    <item>
+      <title>Youtube</title>
+      <link>https://thomastanck.github.io/log/2017_06_25_1/</link>
+      <pubDate>Sun, 25 Jun 2017 09:25:39 +0000</pubDate>
+      
+      <guid>https://thomastanck.github.io/log/2017_06_25_1/</guid>
+      <description>Decent website if you want to waste your time.</description>
+    </item>
+    
+    <item>
+      <title>thomastanck.github.io</title>
+      <link>https://thomastanck.github.io/log/2017_06_25_0/</link>
+      <pubDate>Sun, 25 Jun 2017 06:30:59 +0000</pubDate>
+      
+      <guid>https://thomastanck.github.io/log/2017_06_25_0/</guid>
+      <description>Crappy site. Doesn&#39;t even have content.</description>
+    </item>
+    
+  </channel>
+</rss>
