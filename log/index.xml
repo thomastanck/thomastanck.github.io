@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright (c) 2017, all rights reserved.</copyright>
-    <lastBuildDate>Tue, 27 Jun 2017 15:24:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jun 2017 07:32:25 +0000</lastBuildDate>
     <atom:link href="https://thomastanck.github.io/log/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>thomastanck.github.io</title>
+      <link>https://thomastanck.github.io/log/2017_06_28_0/</link>
+      <pubDate>Wed, 28 Jun 2017 07:32:25 +0000</pubDate>
+      
+      <guid>https://thomastanck.github.io/log/2017_06_28_0/</guid>
+      <description>Made RSS feed sensible and added custom log archive listing</description>
+    </item>
     
     <item>
       <title>Termite working CJK fonts</title>
